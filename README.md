@@ -1,7 +1,7 @@
 # YOLOv5 parallel for moniters
 <img src="https://user-images.githubusercontent.com/26833433/98699617-a1595a00-2377-11eb-8145-fc674eb9b1a7.jpg" width="1000"></a>
 
-# install
+## install
 ```
 $ pip install -r requirements.txt
 ```
